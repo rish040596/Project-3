@@ -2,8 +2,6 @@
 
 OBJECTIVES OF THE PROJECT :
 
-• To implement the concepts of computer graphics.
-
 • To design an interactive demo of working of client-server model.
 
 • Simulation of data transmission between client and server using TCP.
